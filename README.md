@@ -21,13 +21,20 @@ SICP的全称是**Structure and Interpretation Programs**，即**计算机程序
 
 ## 本教程的基本构成
 
-首先感谢UC Berkeley的John DeNero教授将原版的SICP改编成现在Python版的CP，这里附上网址：[ http://composingprograms.com/ ](http://composingprograms.com)
+首先感谢UC Berkeley的John DeNero教授将原版的SICP改编成现在Python版的CP，这里附上网址：
+
+{% embed url="http://composingprograms.com" %}
+CP 教材官网
+{% endembed %}
 
 本教程后续将由三个部分组成：
 
-*   视频带读CP的英文原版，B站不定期更新（感觉会拖很久，学校没有什么适合录视频的地方）
+* 直播带读CP的英文原版，B站不定期更新（感觉会拖很久，学校没有什么适合直播或者录视频的地方，使用直播（会有回放的）是因为体量太大了，录视频然后剪的话太长了）
 
-    [https://space.bilibili.com/283614758](https://space.bilibili.com/283614758)
+{% embed url="https://space.bilibili.com/283614758" %}
+UP主的主页
+{% endembed %}
+
 * 对CP进行中文版的翻译以及添入一些自己的理解，将在本教程内更新
 * 4个练手项目，项目将在对应阅读进度完成之后布置，包括教程与框架代码
 
