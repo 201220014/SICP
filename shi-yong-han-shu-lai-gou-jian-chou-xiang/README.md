@@ -1,5 +1,8 @@
 ---
 description: 本章主要是讲解基于函数的过程抽象
+cover: >-
+  https://images.unsplash.com/photo-1555949963-aa79dcee981c?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxmdW5jdGlvbnxlbnwwfHx8fDE2NDYwOTYyMzI&ixlib=rb-1.2.1&q=85
+coverY: -63.430478309232456
 ---
 
 # 🚧 使用函数来构建抽象
